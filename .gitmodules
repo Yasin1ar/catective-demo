@@ -1,0 +1,3 @@
+[submodule "themes/catective"]
+	path = themes/catective
+	url = https://github.com/yasin1ar/hugo-theme-catective.git
