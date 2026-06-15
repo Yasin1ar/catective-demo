@@ -1,6 +1,4 @@
-# your root hugo.toml must be like this minimally
-
-baseURL = 'https://yourDomainWhenPublished.com/'
+baseURL = 'https://yasin1ar.github.io/catective-demo/'
 languageCode = 'en-us' # cat lang not supperted yet srry
 title = 'My catfilio'
 theme = "catective"
@@ -10,10 +8,10 @@ theme = "catective"
   author = "Cat Doe"
   author_image = "me.png"
   description = "The name's Whiskers. Midnight Whiskers. I've got nine lives and eight unsolved cases—the ninth one's your missing sock. I nap hard, solve harder, and once framed a goldfish for a crime I committed myself. Don't tell anyone. That's between us... and my portfolio. *Meow.*"
-  social_github = 'https://github.com/you'
-  social_linkedin = 'https://linkedin.com/in/you'
-  social_telegram = 'https://t.me/you'
-  social_email = 'mailto:you@example.com'
+  social_github = 'https://github.com/yasin1ar/'
+  social_linkedin = 'https://linkedin.com/'
+  social_telegram = 'https://t.me/'
+  social_email = 'mailto:yasin@amirany.ir'
   
   # want more social links? add more vars like them. Then edit the catective\layouts\partials\social-links.html. Take a look at it, see the pattern, add more to that pattern, and you done.
 
